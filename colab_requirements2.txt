@@ -1,6 +1,8 @@
 jaxlib==0.1.61@file://../dist/jaxlib-0.1.61-cp37-none-win_amd64.whl
 pyspark==3.1.2
+spark-nlp==3.4.2
 httpstan>=0.7.2,<=1.0.0
+thinc!=6.10.0
 
 absl-py
 alabaster
@@ -341,7 +343,6 @@ text-unidecode
 textblob
 textgenrnn
 Theano
-thinc
 tifffile
 toolz
 #torch
