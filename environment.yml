@@ -9,4 +9,5 @@ dependencies:
   - rpy2
   - pip:
     - spark-nlp==3.4.2
-    - -r colab_requirements.txt
+    - matplotlib
+#    - -r colab_requirements.txt
